@@ -1,0 +1,7 @@
+Public class Abc
+{
+publivc static void main(String[] args)
+{
+System.out.println("This is firt program");
+}
+}
